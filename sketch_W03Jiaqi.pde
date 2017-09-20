@@ -28,6 +28,10 @@ void mousePressed() {
   ellipse(mouseX-6,mouseY-20,45,50);
 
 }
+
+void keyPressed() {
+  background(0);
+}
   
 // Click on the image to give it focus,
 // and then press any key.
